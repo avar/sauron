@@ -70,7 +70,7 @@
     #+end_src
 
     Note, this latter option (embedded sauron) is *experimental*. Emacs does not
-    make it easy to do this reliable. Note, you can use: =M-x
+    make it easy to do this reliably. Note, you can use: =M-x
     sauron-toggle-hide-show= to hide/show the sauron frame or window.
 
     You can customize the columns shown in the sauron buffer by setting
